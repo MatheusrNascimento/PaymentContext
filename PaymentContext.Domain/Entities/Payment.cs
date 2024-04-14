@@ -25,7 +25,7 @@ namespace PaymentContext.Domain.Entities
         public Address Address { get; private set; }
         public Document Document { get; private set; }
         public string Payer { get; private set; }
-        public string Email { get; private set; }
+        public Email Email { get; private set; }
     }
 }
 

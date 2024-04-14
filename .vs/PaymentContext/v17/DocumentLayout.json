@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Sraba\\source\\repos\\PaymentContext\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1BECB1E-74F6-4063-AB08-13A08CC12946}|PaymentContext.Tests\\PaymentContext.Tests.csproj|c:\\users\\sraba\\source\\repos\\paymentcontext\\paymentcontext.tests\\tests\\studentstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1BECB1E-74F6-4063-AB08-13A08CC12946}|PaymentContext.Tests\\PaymentContext.Tests.csproj|solutionrelative:paymentcontext.tests\\tests\\studentstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A83AC389-DADA-4712-999B-95EE2A9BB3DF}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\sraba\\source\\repos\\paymentcontext\\paymentcontext.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A83AC389-DADA-4712-999B-95EE2A9BB3DF}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\Sraba\\source\\repos\\PaymentContext\\PaymentContext.Domain\\Entities\\Payment.cs",
               "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\Payment.cs",
               "ToolTip": "C:\\Users\\Sraba\\source\\repos\\PaymentContext\\PaymentContext.Domain\\Entities\\Payment.cs",
               "RelativeToolTip": "PaymentContext.Domain\\Entities\\Payment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T00:44:58.921Z",
+              "WhenOpened": "2024-04-09T00:51:53.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Sraba\\source\\repos\\PaymentContext\\PaymentContext.Tests\\Tests\\StudentsTests.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Tests\\Tests\\StudentsTests.cs",
+              "ToolTip": "C:\\Users\\Sraba\\source\\repos\\PaymentContext\\PaymentContext.Tests\\Tests\\StudentsTests.cs",
+              "RelativeToolTip": "PaymentContext.Tests\\Tests\\StudentsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:47:28.382Z",
               "EditorCaption": ""
             }
           ]

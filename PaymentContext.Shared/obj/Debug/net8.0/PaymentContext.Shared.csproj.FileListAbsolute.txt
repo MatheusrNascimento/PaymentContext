@@ -1,6 +1,7 @@
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\bin\Debug\net8.0\PaymentContext.Shared.deps.json
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\bin\Debug\net8.0\PaymentContext.Shared.dll
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\bin\Debug\net8.0\PaymentContext.Shared.pdb
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.csproj.AssemblyReference.cache
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.AssemblyInfoInputs.cache
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.AssemblyInfo.cs
@@ -9,4 +10,3 @@ C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net8.
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\refint\PaymentContext.Shared.dll
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.pdb
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\ref\PaymentContext.Shared.dll
-C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj\Debug\net8.0\PaymentContext.Shared.csproj.AssemblyReference.cache
