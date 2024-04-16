@@ -1,7 +1,6 @@
 # Arquivos e pastas gerados pelo build do .NET
 bin/
 obj/
-*.dll
 *.exe
 *.pdb
 *.user
