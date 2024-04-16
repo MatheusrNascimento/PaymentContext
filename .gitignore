@@ -10,5 +10,5 @@ obj/
 *.vscode
 **/*assemblyinfo*
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj/
-C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shered\obj/
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj/
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj/
