@@ -1,7 +1,6 @@
 # Arquivos e pastas gerados pelo build do .NET
 bin/
 obj/
-*.dll
 *.exe
 *.pdb
 *.user
@@ -9,3 +8,7 @@ obj/
 *.cache
 *.log
 *.vscode
+**/*assemblyinfo*
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj/
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shared\obj/
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj/
