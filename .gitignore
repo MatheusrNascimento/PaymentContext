@@ -9,3 +9,6 @@ obj/
 *.log
 *.vscode
 **/*assemblyinfo*
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug/
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Shered\obj\Debug/
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj\Debug/
