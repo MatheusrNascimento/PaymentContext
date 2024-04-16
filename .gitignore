@@ -9,4 +9,4 @@ obj/
 *.cache
 *.log
 *.vscode
-**/AssemblyInfo.cs
+**/*assemblyinfo*
