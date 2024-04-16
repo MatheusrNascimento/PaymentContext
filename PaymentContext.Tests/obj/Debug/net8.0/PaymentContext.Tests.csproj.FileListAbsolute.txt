@@ -109,6 +109,7 @@ C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.AssemblyInfoInputs.cache
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.AssemblyInfo.cs
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.sourcelink.json
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentC.9220BB65.Up2Date
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.dll
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\refint\PaymentContext.Tests.dll

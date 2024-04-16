@@ -8,6 +8,7 @@ C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfoInputs.cache
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfo.cs
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.sourcelink.json
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentC.29F7DA76.Up2Date
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.dll
 C:\Users\Sraba\source\repos\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\refint\PaymentContext.Domain.dll
